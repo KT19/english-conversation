@@ -28,7 +28,6 @@ The server is responsible for running the LLM using vLLM. It is managed with the
 cd server
 uv venv
 source .venv/bin/activate
-uv pip install venv
 uv sync
 ```
 
